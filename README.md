@@ -6,7 +6,7 @@ My main fields of interest are now development of distributed systems.</h3>
 
 - 👀 I’m interested in microservices.
 - 🌱 I’m currently learning Spring Cloud.
-- 📫 You can contact me via email: adrian43graf@gmail.com
+- 📫 You can contact me via email: adrian43graf@gmail.com, or <a href="https://www.linkedin.com/in/adrian-russu-2ba2261a0/" target="_blank"> My Linkeding Profile </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
