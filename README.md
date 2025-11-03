@@ -5,7 +5,7 @@ I feel most comfortable working with modern Java and related technologies.
 My main fields of interest are now development of distributed systems.</h3>
 
 - 👀 I’m interested in microservices.
-- 🌱 I’m currently learning Spring Cloud.
+- 🌱 Currently, I’m deepening my experience in microservice architecture and cloud deployment.
 - 📫 You can contact me via email: adrian43graf@gmail.com, or <a href="https://www.linkedin.com/in/adrian-russu-2ba2261a0/" target="_blank"> My Linkedin Profile </a>
 
 
